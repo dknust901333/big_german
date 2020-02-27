@@ -1,2 +1,3 @@
 # big_german
-Placeholder for readme file
+To run Pycards demo type ```python -m pycards```
+To test, type ```python -m pycards.tests```
